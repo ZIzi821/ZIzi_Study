@@ -5,10 +5,10 @@ https://blog.csdn.net/shanguicsdn111/article/details/141819373
 ## 学习Markdown语法
 加粗 **oh shit**
 
-'''python
+```python
 print("hello world")
 
-'''
+```
 
 +1
 +2
