@@ -1,13 +1,15 @@
-# hello
-## world 
+# Hi this is my hub
+## github入门教程
 https://blog.csdn.net/shanguicsdn111/article/details/141819373
-github入门教程
 
-+ 1
-+ 2
-+ 3
+## 学习Markdown语法
+加粗 **oh shit**
 
-```python
+'''python
+print("hello world")
 
-print("hello")
-```
+'''
+
++1
++2
++3
